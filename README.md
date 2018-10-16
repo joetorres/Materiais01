@@ -9,4 +9,4 @@ Para contribuir, recomendo o uso de um bom editor de Markdown, como [Typora](htt
 
 
 Contatos:
-twitter: @jeronimo_torres
+twitter: [@jeronimo_torres](https://twitter.com/@jeronimo_torres)
